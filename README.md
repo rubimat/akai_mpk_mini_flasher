@@ -46,4 +46,4 @@ python miniflasher.py w 1 presets/factory1.json
 
 ## Notes
 
-The tool primitively checks if a configuration contains valid values. However, it is not guaranteed that wrong values won't "slip through". Just be careful what values you type in and check [gljubojevic](https://github.com/gljubojevic/akai-mpk-mini-editor/tree/master)'s site for a full description on the values that can be set.
+The tool primitively checks if a configuration contains valid values. However, it is not guaranteed that wrong values won't "slip through" when flashing. Just be careful what values you manually type in the configuration files and check [gljubojevic](https://github.com/gljubojevic/akai-mpk-mini-editor/tree/master)'s site for a full description on the values that can be set.
