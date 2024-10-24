@@ -8,7 +8,7 @@ Installation is described for Mac only, but it could work on other platforms as 
 
 1. Make sure to have **Python >=3.12** with `python -V`.
 
-2. This package uses the mido python library with the rtmidi backend. rtmidi has to be installed first with
+2. This package uses the mido python library with an rtmidi backend. rtmidi can be installed with:
 
 ```bash
 brew install rtmidi
