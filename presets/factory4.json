@@ -1,0 +1,182 @@
+{
+  "pad_midi_ch": 9,
+  "key_knob_midi_ch": 0,
+  "octave": 4,
+  "transposition": 12,
+  "arpeggio": {
+    "enable": 0,
+    "mode": 4,
+    "time_division": 5,
+    "clock": 0,
+    "latch": 0,
+    "tempo_taps": 3,
+    "tempo_bpm": 120,
+    "octave": 0
+  },
+  "pad_bank_1": [
+    {
+      "pad_no": 0,
+      "note": 60,
+      "pc": 0,
+      "cc": 1,
+      "type": 0
+    },
+    {
+      "pad_no": 1,
+      "note": 61,
+      "pc": 1,
+      "cc": 2,
+      "type": 0
+    },
+    {
+      "pad_no": 2,
+      "note": 62,
+      "pc": 2,
+      "cc": 3,
+      "type": 0
+    },
+    {
+      "pad_no": 3,
+      "note": 63,
+      "pc": 3,
+      "cc": 4,
+      "type": 0
+    },
+    {
+      "pad_no": 4,
+      "note": 64,
+      "pc": 4,
+      "cc": 5,
+      "type": 0
+    },
+    {
+      "pad_no": 5,
+      "note": 65,
+      "pc": 5,
+      "cc": 6,
+      "type": 0
+    },
+    {
+      "pad_no": 6,
+      "note": 66,
+      "pc": 6,
+      "cc": 8,
+      "type": 0
+    },
+    {
+      "pad_no": 7,
+      "note": 67,
+      "pc": 7,
+      "cc": 9,
+      "type": 0
+    }
+  ],
+  "pad_bank_2": [
+    {
+      "pad_no": 0,
+      "note": 68,
+      "pc": 8,
+      "cc": 10,
+      "type": 0
+    },
+    {
+      "pad_no": 1,
+      "note": 69,
+      "pc": 9,
+      "cc": 11,
+      "type": 0
+    },
+    {
+      "pad_no": 2,
+      "note": 70,
+      "pc": 10,
+      "cc": 12,
+      "type": 0
+    },
+    {
+      "pad_no": 3,
+      "note": 71,
+      "pc": 11,
+      "cc": 13,
+      "type": 0
+    },
+    {
+      "pad_no": 4,
+      "note": 72,
+      "pc": 12,
+      "cc": 14,
+      "type": 0
+    },
+    {
+      "pad_no": 5,
+      "note": 73,
+      "pc": 13,
+      "cc": 15,
+      "type": 0
+    },
+    {
+      "pad_no": 6,
+      "note": 74,
+      "pc": 14,
+      "cc": 16,
+      "type": 0
+    },
+    {
+      "pad_no": 7,
+      "note": 75,
+      "pc": 15,
+      "cc": 17,
+      "type": 0
+    }
+  ],
+  "knobs": [
+    {
+      "knob_no": 0,
+      "cc": 17,
+      "low": 0,
+      "high": 127
+    },
+    {
+      "knob_no": 1,
+      "cc": 18,
+      "low": 0,
+      "high": 127
+    },
+    {
+      "knob_no": 2,
+      "cc": 19,
+      "low": 0,
+      "high": 127
+    },
+    {
+      "knob_no": 3,
+      "cc": 20,
+      "low": 0,
+      "high": 127
+    },
+    {
+      "knob_no": 4,
+      "cc": 13,
+      "low": 0,
+      "high": 127
+    },
+    {
+      "knob_no": 5,
+      "cc": 14,
+      "low": 0,
+      "high": 127
+    },
+    {
+      "knob_no": 6,
+      "cc": 15,
+      "low": 0,
+      "high": 127
+    },
+    {
+      "knob_no": 7,
+      "cc": 16,
+      "low": 0,
+      "high": 127
+    }
+  ]
+}
