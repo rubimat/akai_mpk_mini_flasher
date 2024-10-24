@@ -1,6 +1,6 @@
 import os
-import mido
 import json
+import mido
 from enum import Enum
 from dataclasses import dataclass
 from typing import Any, List, Dict
